@@ -19,7 +19,7 @@ python --version
 ### Steps
 1. Clone this repository:
 ```sh
-git clone https://github.com/your-username/guessing-game.git
+git clone https://github.com/Ysh2006-ai/No_Guessing_Game.git
 cd guessing-game
 ```
 2. Run the script:
