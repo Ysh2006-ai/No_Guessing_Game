@@ -20,7 +20,7 @@ python --version
 1. Clone this repository:
 ```sh
 git clone https://github.com/Ysh2006-ai/No_Guessing_Game.git
-cd guessing-game
+cd No_Guessing_Game
 ```
 2. Run the script:
 ```sh
